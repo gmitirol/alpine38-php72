@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.9.3] - 2020-07-13
+- Update alpine base image
+
 ## [1.9.2] - 2020-06-03
 - Update alpine base image
 - Use new docker repo
@@ -70,7 +73,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 1.0.0 - 2018-07-24
 - Initial public release
 
-[Unreleased]: https://github.com/gmitirol/alpine38-php72/compare/1.9.2...HEAD
+[Unreleased]: https://github.com/gmitirol/alpine38-php72/compare/1.9.3...HEAD
+[1.9.3]: https://github.com/gmitirol/alpine38-php72/compare/1.9.2...1.9.3
 [1.9.2]: https://github.com/gmitirol/alpine38-php72/compare/1.9.1...1.9.2
 [1.9.1]: https://github.com/gmitirol/alpine38-php72/compare/1.9.0...1.9.1
 [1.9.0]: https://github.com/gmitirol/alpine38-php72/compare/1.8.0...1.9.0
